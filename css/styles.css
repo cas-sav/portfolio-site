@@ -378,8 +378,11 @@ button:visited, .button:visited {
 
 /* END OF ANIMATION */
 
+/* START OF SVG */
 
 .about__svg {
   margin: 0 auto;
   padding: 0 auto;
 }
+
+/* END OF SVG */
